@@ -1,0 +1,53 @@
+{
+  "name": "CineyCortosGay.com",
+  "short_name": "CineyCortosGay.com",
+  "lang": "es",
+  "theme_color": "#2196f3",
+  "background_color": "#000000",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "https://www.cineycortosgay.com/",
+  "description": "APP Sitio web de Cine Películas y Cortos con temática gay LGBTIQ de todo el mundo! En CineyCortosGay.com Puedes VER CINE ONLINE y DESCARGAR TODO GRATIS!",
+  "icons": [
+    {
+      "src": "https://2.bp.blogspot.com/-pvt0RdA7VuI/WzaXm8GpVpI/AAAAAAAADNU/606dLC-ThW4yk5dWGtlUNveU_D1zBhHRACLcBGAs/s0/cineycortosgay-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-zqAoGQXt76U/WzaYazws4UI/AAAAAAAADN4/wNPW-ALBDcMwgEOfw5uThtyHzDXaewT5QCLcBGAs/s0/cineycortosgay-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-4Ep0AFgGUMw/WzaXiX8vAVI/AAAAAAAADMs/aL-GNlND9W4ABs0mBTBehBapeKRi2gaKwCLcBGAs/s0/cineycortosgay-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-P-KWTuIAQ0c/WzaZpwD_b-I/AAAAAAAADOE/mAg68uMwFDgnLeUza2Y3as37wFPyTgNFwCLcBGAs/s0/cineycortosgay-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-Cg1OMGLRV5k/WzaXj8bDvHI/AAAAAAAADM0/1QLDBJuXliAXMl842SUKTbo8rdDs5AKJACLcBGAs/s0/cineycortosgay-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/--mpI9QxaZgo/WzaXkewsBaI/AAAAAAAADM4/lNHt_QCTCogZutXKIS4ejoRh9nES63zTwCLcBGAs/s0/cineycortosgay-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-AKqE9rR-3Hc/Wzaad5m129I/AAAAAAAADOM/W_YHC89_PIAHbFw3tI3EtYn4dJRHqDZaACLcBGAs/s1600/cineycortosgay-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-PnhCGEAa8-Q/WzaXlhZzwUI/AAAAAAAADNE/Pf-LJ4NQScoKJNkicDs12FX7nrYHRx-CgCLcBGAs/s1600/cineycortosgay-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
