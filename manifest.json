@@ -5,9 +5,9 @@
   "theme_color": "#2196f3",
   "background_color": "#000000",
   "display": "standalone",
-  "Scope": "https://www.cineycortosgay.com/",
-  "start_url": "https://www.cineycortosgay.com/",
-  "description": "APP Sitio web de Cine Películas y Cortos con temática gay LGBTIQ de todo el mundo! En CineyCortosGay.com Puedes VER CINE ONLINE y DESCARGAR TODO GRATIS!",
+  "Scope": "https://www.cineycortosgay.com/?m=1",
+  "start_url": "https://www.cineycortosgay.com/?m=1",
+  "description": "APP del Sitio CineyCortosGay.com, web de Cine, Películas y Cortos con temática gay LGBTIQ de todo el mundo! En CineyCortosGay.com Puedes VER CINE ONLINE y DESCARGAR TODO GRATIS!",
   "icons": [
     {
       "src": "https://2.bp.blogspot.com/-pvt0RdA7VuI/WzaXm8GpVpI/AAAAAAAADNU/606dLC-ThW4yk5dWGtlUNveU_D1zBhHRACLcBGAs/s0/cineycortosgay-72x72.png",
