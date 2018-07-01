@@ -1,0 +1,103 @@
+{
+  "name": "CineyCortosGay.com",
+  "short_name": "CineyCortosGay.com",
+  "lang": "es",
+  "theme_color": "#2196f3",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "Scope": "https://www.cineycortosgay.com/?m=1",
+  "start_url": "https://www.cineycortosgay.com/?m=1",
+  "description": "APP Sitio web de Cine Películas y Cortos con temática gay LGBTIQ de todo el mundo! En CineyCortosGay.com Puedes VER CINE ONLINE y DESCARGAR TODO GRATIS!",
+  "icons": [
+   {
+      "src": "https://3.bp.blogspot.com/-q5XrikAiljU/WzlXzwdxlpI/AAAAAAAADO0/KyF8pWtic5ox4vmszvFjHw6gFypc8Q1dwCLcBGAs/s1600/cineycortosgay-16x16_vectorized.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://4.bp.blogspot.com/-_LYk9_5b8Q0/WzlXC9t3-vI/AAAAAAAADOs/B-U_yK1JKtg-6C09mRoyQ01O54acDKuTACLcBGAs/s0/cineycortosgay-32x32_vectorized.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://4.bp.blogspot.com/-J7mdnfDMmg8/WzlRWaiJREI/AAAAAAAADOY/fA8WqUMBOgIQ2i2sPDWsBQi02UGi-YJJQCLcBGAs/s0/cineycortosgay-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-jGXD__5EBFI/WzlR6iHpozI/AAAAAAAADOg/OzIYhFqVERIQJIuDOgiPuJbi2ciNSJAfQCLcBGAs/s0/cineycortosgay-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-pvt0RdA7VuI/WzaXm8GpVpI/AAAAAAAADNU/606dLC-ThW4yk5dWGtlUNveU_D1zBhHRACLcBGAs/s0/cineycortosgay-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-zyStCVRqvO0/WzaXmwpMsHI/AAAAAAAADNY/kvFcOrqRrGUMGmZE4Hl6ldux6uu2nCO6QCLcBGAs/s0/cineycortosgay-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-zqAoGQXt76U/WzaYazws4UI/AAAAAAAADN4/wNPW-ALBDcMwgEOfw5uThtyHzDXaewT5QCLcBGAs/s0/cineycortosgay-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-ypq7DDhSCG4/WzaXiUFJpZI/AAAAAAAADMo/EAbZDyXTPXU0jPbRLMcaBJPvUtfb7ZUIQCLcBGAs/s0/cineycortosgay-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-eQtJeM7_mqk/WzaXiVA4deI/AAAAAAAADMk/_MFmwoSQ0PY5_XD2ZzyuqYF46-tQcMBxACLcBGAs/s0/cineycortosgay-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-4Ep0AFgGUMw/WzaXiX8vAVI/AAAAAAAADMs/aL-GNlND9W4ABs0mBTBehBapeKRi2gaKwCLcBGAs/s0/cineycortosgay-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-P-KWTuIAQ0c/WzaZpwD_b-I/AAAAAAAADOE/mAg68uMwFDgnLeUza2Y3as37wFPyTgNFwCLcBGAs/s0/cineycortosgay-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-Cg1OMGLRV5k/WzaXj8bDvHI/AAAAAAAADM0/1QLDBJuXliAXMl842SUKTbo8rdDs5AKJACLcBGAs/s0/cineycortosgay-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-ZBFulxkc07I/WzlZ-RI4EaI/AAAAAAAADPA/F_8Jk7rFVmUSj0bqP77faPACIKKWRKP0QCLcBGAs/s0/cineycortosgay-180x180_vectorized.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/--mpI9QxaZgo/WzaXkewsBaI/AAAAAAAADM4/lNHt_QCTCogZutXKIS4ejoRh9nES63zTwCLcBGAs/s0/cineycortosgay-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-AKqE9rR-3Hc/Wzaad5m129I/AAAAAAAADOM/W_YHC89_PIAHbFw3tI3EtYn4dJRHqDZaACLcBGAs/s0/cineycortosgay-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-li7lCQF_nu8/Wzla8Zj4vzI/AAAAAAAADPI/NlA5oPYTRsAHEU6N2CerM3PR5mehszurwCLcBGAs/s1600/cineycortosgay800x800.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-szO4Tj96FFM/Wzlbc0nKW4I/AAAAAAAADPQ/9YEcjWwLZFE7gYxfPHv0C4WzVOuE8tSkwCLcBGAs/s1600/cineycortosgay-1024x1024_vectorized.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-PnhCGEAa8-Q/WzaXlhZzwUI/AAAAAAAADNE/Pf-LJ4NQScoKJNkicDs12FX7nrYHRx-CgCLcBGAs/s0/cineycortosgay-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
