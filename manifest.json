@@ -1,0 +1,103 @@
+{
+  "name": "PeliculasyCortosGay.com",
+  "short_name": "PeliculasyCortosGay.com",
+  "lang": "es",
+  "theme_color": "#2196f3",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "Scope": "https://www.peliculasycortosgay.com/?m=1",
+  "start_url": "https://www.peliculasycortosgay.com/?m=1",
+  "description": "APP Sitio web de Cine con Películas y Cortos con temática gay LGBTIQ de todo el mundo! En PeliculasyCortosGay.com Puedes VER ONLINE PELICULAS, VER CINE ONLINE DESCARGAR TODO GRATIS!",
+  "icons": [
+   {
+      "src": "https://3.bp.blogspot.com/-nviTlqu6bRc/XR2iEXpY7iI/AAAAAAAAEHA/qwW2S9Djps4MNz-cFJllBnDsmsyKAJwZQCLcBGAs/s0/favicon_cineycortos_16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://3.bp.blogspot.com/-VuFEjLqHNpY/XR2iQrOOSEI/AAAAAAAAEIA/sT8Nt_Obx1cEeR2pBnaDRXxRsGaSYRfKQCLcBGAs/s0/favicon_cineycortos_32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://2.bp.blogspot.com/-O5cUi3KsPcQ/XR2iRuZsugI/AAAAAAAAEIM/dPJsqdk9_n8w8K10KryIoFjxPhJ2gEgOgCLcBGAs/s0/favicon_cineycortos_57x57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-99b806FJQHc/XR2iR-3OhDI/AAAAAAAAEIQ/KP3eynz12-MdPjiRXldZMjOpAlnxpj7agCLcBGAs/s0/favicon_cineycortos_60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-U2aiRrD39Go/XR2iSbklrsI/AAAAAAAAEIY/OyccqP3QciQktGrdlrT583x6thCiNqIyQCLcBGAs/s0/favicon_cineycortos_72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-KGsyT5sQjso/XR2iSe6R3AI/AAAAAAAAEIc/gtqVeDoBuroqnr3SHjG_NHPZOCbI-a7sQCLcBGAs/s0/favicon_cineycortos_76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-kQKUoep53NE/XR2iTQU--PI/AAAAAAAAEIg/CpeVtQ4qaRUMRU5IkaEVTusrB1uEHzOjACLcBGAs/s0/favicon_cineycortos_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-Ievmsf1nUAc/XR2iLcg8-HI/AAAAAAAAEHE/822R6arw1gUVhdebL2KGMHTJGXZKZshUgCLcBGAs/s0/favicon_cineycortos_114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://2.bp.blogspot.com/-mTPCrO-rh5U/XR2iLokP72I/AAAAAAAAEHI/O7BeU-zwHyI1koK3KkVazaF_BJLxzDHaQCLcBGAs/s0/favicon_cineycortos_120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-yLYmXS0Lw30/XR2iL0fLb-I/AAAAAAAAEHQ/0HXG7MfjbMg69dftPj-OMjiCNi9OhCBQQCLcBGAs/s0/favicon_cineycortos_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-EhVu3ehDbHA/XR2iMGlnbrI/AAAAAAAAEHU/wKo2a-EMtaUqvo-XGp7MwKg8UH3gRhOfACLcBGAs/s0/favicon_cineycortos_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-rWLWnmORGiI/XR2iNeoX49I/AAAAAAAAEHc/PhYu5-qxjkUPwc5zO_e39mNzDTJZHRAlgCLcBGAs/s0/favicon_cineycortos_152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://1.bp.blogspot.com/-H0OGweHihrM/XR2iO3qzJXI/AAAAAAAAEHo/lvncii9By3cUAsGB_1rjJGqmabDDx2c8wCLcBGAs/s0/favicon_cineycortos_180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-Fm6yQorV9ME/XR2iPNtr3EI/AAAAAAAAEHs/4Md9tN6bRb0jvzCuosZuyucpbMNmzb4OQCLcBGAs/s0/favicon_cineycortos_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-yEzMlVYbEqE/XR2iQ1PW3iI/AAAAAAAAEIE/sb4wgXle78ciQ9lbnaP0axNDGsrwEYiOQCLcBGAs/s0/favicon_cineycortos_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-2sjL7eDDJw4/XR2iTT40LrI/AAAAAAAAEIk/Q6AYlD-zXQEgT4lmRtNfC0x1i6w0tWgzgCLcBGAs/s0/favicon_cineycortos_800.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-T26CC7FqeuA/XR2iLuZedJI/AAAAAAAAEHM/dF2Hh7dUSCIaV6l0AKXupehCArcjQgg1wCLcBGAs/s0/favicon_cineycortos_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-zpdT3J-Ed6Y/XR2iRVhSk5I/AAAAAAAAEII/TtUCh3NY27MJpddajGWPO3G9GFTWmhuOgCLcBGAs/s0/favicon_cineycortos_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
