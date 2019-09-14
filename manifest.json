@@ -1,0 +1,103 @@
+{
+  "name": "PeliculasyCortosGay.com",
+  "short_name": "PeliculasyCortosGay.com",
+  "lang": "es",
+  "theme_color": "#a64d79",
+  "background_color": "#464646",
+  "display": "standalone",
+  "Scope": "https://www.peliculasycortosgay.com/?m=1",
+  "start_url": "https://www.peliculasycortosgay.com/?m=1",
+  "description": "APP Sitio web de Cine con Películas y Cortos con temática gay LGBTIQ de todo el mundo! En PeliculasyCortosGay.com Puedes VER ONLINE PELICULAS, VER CINE ONLINE DESCARGAR TODO GRATIS!",
+  "icons": [
+   {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s16/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+   {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s32/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+   {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s57/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s60/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s72/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s76/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s96/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s114/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s120/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s128/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s144/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s152/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+	{
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s180/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-4htmPtGPiIA/XVQZW76MQRI/AAAAAAAAEcQ/NX4VAwVg8dA3f0tdVCd5wcJITWZi_TURgCLcBGAs/s192/favicon_peliculasycortosgay_310_vectorized_vectorized.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-HgaTbcX-KSc/XXw5f3JeZEI/AAAAAAAAEpU/CRSqG6l5LxYGb--hecYHXBGy1nW3HnzNgCNcBGAsYHQ/s384/favicon_peliculasycortosgay_1024_vectorized_vectorized_vectorized.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-HgaTbcX-KSc/XXw5f3JeZEI/AAAAAAAAEpU/CRSqG6l5LxYGb--hecYHXBGy1nW3HnzNgCNcBGAsYHQ/s800/favicon_peliculasycortosgay_1024_vectorized_vectorized_vectorized.png",
+      "sizes": "800x800",
+      "type": "image/png"
+    },
+	{
+      "src": "https://4.bp.blogspot.com/-HgaTbcX-KSc/XXw5f3JeZEI/AAAAAAAAEpU/CRSqG6l5LxYGb--hecYHXBGy1nW3HnzNgCNcBGAsYHQ/s1024/favicon_peliculasycortosgay_1024_vectorized_vectorized_vectorized.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-HgaTbcX-KSc/XXw5f3JeZEI/AAAAAAAAEpU/CRSqG6l5LxYGb--hecYHXBGy1nW3HnzNgCNcBGAsYHQ/s512/favicon_peliculasycortosgay_1024_vectorized_vectorized_vectorized.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  }
