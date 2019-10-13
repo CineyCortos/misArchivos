@@ -1,6 +1,7 @@
 /* Select (and copy) Form Element Script v1.1
 * Author: Dynamic Drive at http://www.dynamicdrive.com/
 * Visit http://www.dynamicdrive.com/ for full source code
+* Modificado por www.PeliculasyCortosGay.com
 */
 
 var fieldtoclipboard = {
